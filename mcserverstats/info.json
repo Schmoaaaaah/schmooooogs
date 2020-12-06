@@ -1,0 +1,26 @@
+{
+    "author": [
+        "Schmoaaaaah"
+    ],
+    "description": "Always now what you're current status on you're Minecraft Server is.",
+    "disabled": false,
+    "end_user_data_statement": "This Olugin uses you're Servers address to get it's current status.",
+    "hidden": false,
+    "install_msg": "add and remove Server by typing [p]addmcserver || [p]removemcserver. fetch the status by typing [p]mcserverstats.",
+    "max_bot_version": "0.0.0",
+    "min_bot_version": "3.1.8",
+    "min_python_version": [
+        3,
+        7,
+        2
+    ],
+    "name": "MCServerstats",
+    "permissions": [],
+    "required_cogs": {},
+    "requirements": [],
+    "short": "Stats of you're MCServer.",
+    "tags": [
+        "Minecraft"
+    ],
+    "type": "COG"
+}
